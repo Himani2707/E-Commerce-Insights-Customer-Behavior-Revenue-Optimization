@@ -21,27 +21,27 @@ This project analyzes customer behavior and business performance to improve reve
 ## 📊 Dashboards
 
 ### 1. Executive Overview
-(Add screenshot here later)
+![Executive](Executive.png)
 
 ---
 
 ### 2. Customer Analytics
-(Add screenshot here later)
+![Customer](Customer.png)
 
 ---
 
 ### 3. Product Performance
-(Add screenshot here later)
+![Product](product.png)
 
 ---
 
 ### 4. Funnel Analysis
-(Add screenshot here later)
+![Funnel](Funnel.png)
 
 ---
 
 ### 5. Marketing Effectiveness
-(Add screenshot here later)
+![Marketing](Marketing.png)
 
 ---
 
